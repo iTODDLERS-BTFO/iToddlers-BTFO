@@ -23,3 +23,25 @@ ___
 [![](btfo/5202093468.png)](https://www.forbes.com/sites/ewanspence/2020/03/30/apple-iphone-repair-delay-right-to-repair-coronavirus-covid19-social-distancing/#156459b2501f)
 
 [![](btfo/5153943509.png)](https://www.imore.com/judge-tells-apple-it-took-too-long-try-recoup-454-million-it-paid-virnetx-over-patents)
+
+![](satania/laugh2.gif)
+
+[![](btfo/3500451731.png)](https://9to5mac.com/2020/10/01/pre-installed-apple-apps/)
+
+[![](btfo/5239419787.png)](https://www.engadget.com/apple-server-outage-012441089.html)
+
+[![](btfo/7468250415.png)](https://www.bbc.com/news/newsbeat-49933003)
+
+![](btfo/3149967047.png)
+
+[![](btfo/6798246164.png)](https://www.myhighplains.com/news/tech-news/apples-smaller-rivals-unite-to-fight-iphone-app-store-rules/)
+
+[![](btfo/0572625164.png)](https://www.engadget.com/2019-12-29-new-york-doctor-sues-apple-over-irregular-heartbeat-detection.html)
+
+[![](btfo/0847704397.png)](https://www.tomsguide.com/news/ios-14-bugs-are-messing-with-apps-what-to-do-now)
+
+[![](btfo/5231080961.png)](https://www.slashgear.com/dont-download-ios-14-today-heres-why-16638400/)
+
+[![](btfo/2575473198.png)](https://www.bbc.com/news/technology-51413724)
+
+![](satania/dab.jpg)
