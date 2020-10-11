@@ -1,6 +1,8 @@
-![](satania/laugh1.gif)
+![](satania/open_the_door.png)
 
-___
+---
+
+![](satania/laugh1.gif)
 
 [![](btfo/3957381507.png)](https://twitter.com/HardFactorPat/status/1232784648222187523)
 
@@ -43,5 +45,19 @@ ___
 [![](btfo/5231080961.png)](https://www.slashgear.com/dont-download-ios-14-today-heres-why-16638400/)
 
 [![](btfo/2575473198.png)](https://www.bbc.com/news/technology-51413724)
+
+![](satania/laugh3.gif)
+
+[![](btfo/0740663512.png)](https://www.foxbusiness.com/technology/apple-france-antitrust-fine)
+
+[![](btfo/1442948872.png)](https://www.bbc.com/news/world-europe-51906033)
+
+[![](btfo/6105272647.png)](https://www.techspot.com/news/87043-protonmail-ceo-calls-apple-forced-app-purchases-mafia.html)
+
+[![](btfo/2743917964.png)](https://www.foxbusiness.com/technology/apple-right-to-repair)
+
+[![](btfo/6354563654.png)](https://www.slashgear.com/apple-airpods-studio-airtags-reveal-date-roadmap-leak-iphone-12-accessories-09641737/)
+
+[![](btfo/4214318945.png)](https://www.techspot.com/news/87038-former-app-store-exec-testifies-apple-rules-weapon.html)
 
 ![](satania/dab.jpg)
