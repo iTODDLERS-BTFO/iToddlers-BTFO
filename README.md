@@ -60,4 +60,24 @@
 
 [![](btfo/4214318945.png)](https://www.techspot.com/news/87038-former-app-store-exec-testifies-apple-rules-weapon.html)
 
+[![](btfo/4635854263.png)](https://gizmodo.com/apple-just-cant-stop-throttling-iphones-1830124291)
+
+[![](btfo/7612862997.png)](https://www.wired.com/story/how-to-stop-apple-throttling-iphones/)
+
+[![](btfo/7618669740.png)](https://www.zdnet.com/article/iphone-x-gets-speed-throttling-months-after-apple-said-it-probably-doesnt-need-it/)
+
+[![](btfo/5471782494.png)](https://gizmodo.com/apple-messed-up-the-macbook-air-again-1690310880)
+
+![](satania/laugh4.gif)
+
+[![](btfo/6055754933.png)](https://www.tunefab.com/tutorials/apple-music-problems.html)
+
+[![](btfo/0114614904.png)](https://www.digitaltrends.com/wearables/apple-watch-problems/)
+
+[![](btfo/6683885064.png)](https://www.smh.com.au/technology/apple-fined-41-million-for-secretly-slowing-old-iphones-20200210-p53z9n.html)
+
+[![](btfo/4405480439.png)](https://www.vanguardngr.com/2020/08/apple-fined-500m-over-4g-patent-infringements/)
+
+[![](btfo/1306338193.png)](https://www.digitaltrends.com/mobile/iphone-explosion-las-vegas/)
+
 ![](satania/dab.jpg)
