@@ -80,4 +80,26 @@
 
 [![](btfo/1306338193.png)](https://www.digitaltrends.com/mobile/iphone-explosion-las-vegas/)
 
+[![](btfo/2877480700.png)](https://www.cnet.com/news/apple-fined-12m-dollars-by-italy-over-iphone-water-resistance-claims/)
+
+[![](btfo/7653470677.png)](https://arstechnica.com/gadgets/2020/12/italy-fines-apple-12-million-over-iphone-marketing-claims/)
+
+[![](btfo/5521614879.png)](https://9to5mac.com/2020/11/12/apple-widespread-outages-big-sur-downloads-catalina-imessage/)
+
+[![](btfo/2468814379.png)](https://9to5mac.com/2020/11/15/apple-explains-addresses-mac-privacy-concerns/)
+
+[![](btfo/5926465537.png)](https://9to5mac.com/2020/11/30/apple-one-subscription-expired-bug/)
+
+[![](btfo/5072624966.png)](https://www.tomsguide.com/news/iphone-12-has-a-serious-signal-problem-what-you-need-to-know)
+
+[![](btfo/1564805969.png)](https://thenextweb.com/plugged/2020/11/16/apple-apps-on-big-sur-bypass-firewalls-vpns-analysis-macos/)
+
+![](satania/laugh5.gif)
+
+[![](btfo/0548825769.png)](https://7news.com.au/technology/apple/apple-iphone-12-users-report-significant-issue-with-4g-and-5g-c-1700389)
+
+[![](btfo/1893568500.png)](https://www.bbc.com/news/technology-55157948)
+
+[![](btfo/9722286091.png)](https://appleinsider.com/articles/20/11/09/researchers-break-safari-ios-14-to-win-420000-in-chinese-hacking-contest)
+
 ![](satania/dab.jpg)
