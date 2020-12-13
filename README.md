@@ -2,8 +2,6 @@
 
 ---
 
-![](satania/laugh1.gif)
-
 [![](btfo/3957381507.png)](https://twitter.com/HardFactorPat/status/1232784648222187523)
 
 [![](btfo/4766880444.png)](https://www.washingtonpost.com/technology/2020/09/23/apple-watch-oximeter/)
@@ -24,9 +22,11 @@
 
 [![](btfo/5202093468.png)](https://www.forbes.com/sites/ewanspence/2020/03/30/apple-iphone-repair-delay-right-to-repair-coronavirus-covid19-social-distancing/#156459b2501f)
 
-[![](btfo/5153943509.png)](https://www.imore.com/judge-tells-apple-it-took-too-long-try-recoup-454-million-it-paid-virnetx-over-patents)
 
-![](satania/laugh2.gif)
+![](satania/laugh1.gif)
+
+
+[![](btfo/5153943509.png)](https://www.imore.com/judge-tells-apple-it-took-too-long-try-recoup-454-million-it-paid-virnetx-over-patents)
 
 [![](btfo/3500451731.png)](https://9to5mac.com/2020/10/01/pre-installed-apple-apps/)
 
@@ -46,7 +46,9 @@
 
 [![](btfo/2575473198.png)](https://www.bbc.com/news/technology-51413724)
 
-![](satania/laugh3.gif)
+
+![](satania/laugh2.gif)
+
 
 [![](btfo/0740663512.png)](https://www.foxbusiness.com/technology/apple-france-antitrust-fine)
 
@@ -68,7 +70,9 @@
 
 [![](btfo/5471782494.png)](https://gizmodo.com/apple-messed-up-the-macbook-air-again-1690310880)
 
-![](satania/laugh4.gif)
+
+![](satania/laugh3.gif)
+
 
 [![](btfo/6055754933.png)](https://www.tunefab.com/tutorials/apple-music-problems.html)
 
@@ -90,16 +94,37 @@
 
 [![](btfo/5926465537.png)](https://9to5mac.com/2020/11/30/apple-one-subscription-expired-bug/)
 
+
+![](satania/laugh4.gif)
+
+
 [![](btfo/5072624966.png)](https://www.tomsguide.com/news/iphone-12-has-a-serious-signal-problem-what-you-need-to-know)
 
 [![](btfo/1564805969.png)](https://thenextweb.com/plugged/2020/11/16/apple-apps-on-big-sur-bypass-firewalls-vpns-analysis-macos/)
-
-![](satania/laugh5.gif)
 
 [![](btfo/0548825769.png)](https://7news.com.au/technology/apple/apple-iphone-12-users-report-significant-issue-with-4g-and-5g-c-1700389)
 
 [![](btfo/1893568500.png)](https://www.bbc.com/news/technology-55157948)
 
 [![](btfo/9722286091.png)](https://appleinsider.com/articles/20/11/09/researchers-break-safari-ios-14-to-win-420000-in-chinese-hacking-contest)
+
+[![](btfo/1855038221.png)](https://www.theverge.com/2020/11/18/21573710/apple-battery-gate-throttle-iphones-settlement-amount)
+
+[![](btfo/2284697668.png)](https://economictimes.indiatimes.com/tech/tech-bytes/apple-sued-in-eu-over-iphones-that-wear-out-too-quickly/articleshow/79540306.cms)
+
+[![](btfo/3068441946.png)](https://www.theguardian.com/technology/2020/nov/18/fortnite-maker-epic-games-sues-apple-in-australia-for-app-store-ban)
+
+[![](btfo/6124950995.png)](https://www.gizchina.com/2020/11/30/apple-will-use-samsungs-periscope-camera-in-the-iphone-13/)
+
+[![](btfo/5481627584.png)](https://arstechnica.com/gaming/2020/11/judge-dismisses-apples-theft-claims-in-epic-games-lawsuit/)
+
+
+![](satania/laugh5.gif)
+
+
+[![](btfo/9363525202.png)](https://www.businessinsider.com/apple-paying-113-million-lawsuit-slowing-down-iphones-2020-11)
+
+[![](btfo/6036547393.png)](https://www.businessinsider.com/apple-iphone-privacy-illegal-tracking-cookies-eu-lawsuit-advertising-2020-11)
+
 
 ![](satania/dab.jpg)
