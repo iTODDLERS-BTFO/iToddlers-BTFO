@@ -126,5 +126,24 @@
 
 [![](btfo/6036547393.png)](https://www.businessinsider.com/apple-iphone-privacy-illegal-tracking-cookies-eu-lawsuit-advertising-2020-11)
 
+[![](btfo/9787031443.png)](https://arstechnica.com/gadgets/2020/12/ex-apple-employees-say-company-ignored-china-labor-law-violations)
+
+[![](btfo/8307408511.png)](https://www.patentlyapple.com/patently-apple/2020/12/a-recurring-story-about-apple-turning-blind-eye-to-supplier-breaches-of-chinese-labor-laws-emerges-again.html)
+
+[![](btfo/0100815069.png)](https://www.gizmochina.com/2020/12/10/apple-airpods-max-shipping/)
+
+[![](btfo/2319715271.png)](https://www.idropnews.com/rumors/is-apple-considering-removing-even-more-accessories-from-next-years-iphone/149103/)
+
+[![](btfo/9882383412.png)](https://www.fudzilla.com/news/51973-amazon-and-apple-are-the-bad-guys-of-electronic-waste)
+
+[![](btfo/5676227844.png)](https://www.gizchina.com/2020/12/10/apple-may-even-deprive-iphone-13-buyers-of-the-cable/)
+
+[![](btfo/6890193631.png)](https://www.tasnimnews.com/en/news/2020/12/13/2409359/angry-workers-trash-iphone-factory-in-india-over-salary-dispute-video)
+
+[![](btfo/0780208554.png)](https://www.forbes.com/sites/siladityaray/2020/12/16/facebook-targets-apples-new-privacy-tool-in-full-page-newspaper-ad-campaign)
+
+
+![](satania/laugh6.gif)
+
 
 ![](satania/dab.jpg)
