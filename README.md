@@ -146,4 +146,28 @@
 ![](satania/laugh6.gif)
 
 
+[![](btfo/1876027291.png)](https://abcnews.go.com/Technology/high-school-student-stumbled-apples-facetime-bug-report/story?id=60719237)
+
+[![](btfo/7549528719.png)](https://blog.malwarebytes.com/mac/2020/11/apple-security-hampers-detection-of-unwanted-programs/)
+
+[![](btfo/3041210202.png)](https://www.reuters.com/article/us-apple-fbi-icloud-exclusive/exclusive-apple-dropped-plan-for-encrypting-backups-after-fbi-complained-sources-idUSKBN1ZK1CT)
+
+[![](btfo/1401785809.png)](https://www.forbes.com/sites/anthonykarcz/2020/12/25/cant-setup-your-new-apple-product-its-not-you-its-them/?sh=518b5b1b15f0)
+
+[![](btfo/1681092906.png)](https://247wallst.com/autos/2020/12/23/why-an-apple-icar-is-a-very-bad-idea/)
+
+[![](btfo/4475341723.png)](https://techstory.in/new-text-notification-bug-surfaces-on-apple-iphone/)
+
+[![](btfo/0575856836.png)](https://appleinsider.com/articles/20/12/18/macos-big-sur-update-bug-is-causing-issues-for-mac-system-administrators)
+
+[![](btfo/3866786406.png)](https://piunikaweb.com/2020/11/28/ios-14-2-update-displays-senders-names-in-reverse-in-the-apple-mail-app/)
+
+[![](btfo/0248330799.png)](https://www.digitaltrends.com/home-theater/apple-airpods-max-familiar-mistake-homepod/)
+
+[![](btfo/8486925222.png)](https://thehackernews.com/2020/12/iphones-of-36-journalists-hacked-using.html)
+
+
+![](satania/laugh7.gif)
+
+
 ![](satania/dab.jpg)
