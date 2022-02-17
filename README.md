@@ -169,5 +169,7 @@
 
 ![](satania/laugh7.gif)
 
+[![](btfo/154548812.png)](https://www.ifixit.com/News/11986/iphones-are-allergic-to-helium)
+
 
 ![](satania/dab.jpg)
