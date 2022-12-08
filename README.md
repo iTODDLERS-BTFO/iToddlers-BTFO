@@ -171,5 +171,7 @@
 
 [![](btfo/154548812.png)](https://www.ifixit.com/News/11986/iphones-are-allergic-to-helium)
 
+[![](btfo/205521485-18f9ddfd-75fc-43b5-a100-788562babfe9.png)](https://www.macrumors.com/2022/10/25/airpods-max-anc-performance-reduced/)
+
 
 ![](satania/dab.jpg)
