@@ -171,7 +171,9 @@
 
 [![](btfo/154548812.png)](https://www.ifixit.com/News/11986/iphones-are-allergic-to-helium)
 
-[![](btfo/205521485-18f9ddfd-75fc-43b5-a100-788562babfe9.png)](https://www.macrumors.com/2022/10/25/airpods-max-anc-performance-reduced/)
+[![](btfo/205521485-18f9ddfd-75fc-43b5-a100-788562babfe9.png)](https://screenrant.com/apple-airpods-max-headphones-earcup-condensation/)
+
+[![](btfo/205521439-3102c456-c8b0-4360-9887-ea7c080eb276.png)](https://www.macrumors.com/2022/10/25/airpods-max-anc-performance-reduced/)
 
 
 ![](satania/dab.jpg)
